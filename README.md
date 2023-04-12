@@ -38,7 +38,7 @@ CUSTOM_SEARCH_ENGINE_ID=<uw-aangepaste-zoekmachine-id>
 
 Vervang <uw-openai-api-sleutel>, <uw-google-api-sleutel> en <uw-aangepaste-zoekmachine-id> door uw daadwerkelijke API-sleutels en zoekmachine-ID.
 
-##Gebruik
+## Gebruik
 Voer de applicatie uit met de volgende opdracht:
 
 ```bash
@@ -49,5 +49,5 @@ De applicatie zoekt naar relevante artikelen, genereert samenvattingen en creëe
 
 De applicatie maakt ook een LinkedIn-banner en slaat deze op als een afbeeldingsbestand in de blogposts map.
 
-##Belangrijke opmerking
+## Belangrijke opmerking
 Het gebruik van de Google Custom Search API en OpenAI GPT-3.5-turbo kan kosten met zich meebrengen. Zorg ervoor dat u op de hoogte bent van de kosten voordat u deze applicatie uitvoert.
